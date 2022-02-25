@@ -1,3 +1,4 @@
+[contributors.txt](https://github.com/github/docs/files/8137343/contributors.txt)
 ---
 title: Managing accessibility settings
 intro: 'You can disable character key shortcuts on {% data variables.product.prodname_dotcom %} in your accessibility settings.'
